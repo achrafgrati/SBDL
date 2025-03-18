@@ -67,3 +67,4 @@ if __name__ == '__main__':
         .save()
 
     logger.info("Finished sending data to Kafka")
+    logger.info("one more message")
